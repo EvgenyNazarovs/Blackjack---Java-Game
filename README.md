@@ -1,6 +1,6 @@
-## Blackjack Simulator - made in Java
+## Blackjack Simulator
 
-This simulator was made as part of an assignment for CodeClan. The brief was as follows:
+This simulator was made as part of an assignment for CodeClan. It is written in Java using classes and the TDD approach. The brief was as follows:
 
 ## MVP
 
